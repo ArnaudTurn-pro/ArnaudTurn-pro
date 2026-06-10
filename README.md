@@ -2,7 +2,7 @@
 
 I build simple, useful tools. Some work, some don't. I keep building anyway.
 
-## medground
+## <img src="https://medground.ai/favicon-96x96.png" height="24" align="top" /> medground
 
 [medground.ai](https://medground.ai) is a research tool over the medical
 literature, built on one rule: no claim ships without a real, retrievable
@@ -17,9 +17,9 @@ This is my attempt at something more honest.
 It's early and I'd love help. If you know oncology, retrieval or RAG,
 open an issue or just tell me what's wrong with it.
 
-## emmascan
+## <img src="https://emmascan.io/emma-icon-128.png" height="24" align="top" /> emmascan
 
-[emmascan.ai](https://emmascan.ai) is a market scanner for regular people.
+[emmascan.io](https://emmascan.io) is a market scanner for regular people.
 Signal scans, backtests, and a plain verdict on any ticker. Also runs as an
 MCP server, so you can plug it into Claude and ask it questions.
 
