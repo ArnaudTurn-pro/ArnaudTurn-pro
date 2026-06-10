@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Arnaud
 
-<!--
-**ArnaudTurn-pro/ArnaudTurn-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build simple, useful tools. Some work, some don't. I keep building anyway.
 
-Here are some ideas to get you started:
+## medground
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[medground.ai](https://medground.ai) is a research tool over the medical
+literature, built on one rule: no claim ships without a real, retrievable
+paper behind it. Hybrid retrieval (dense vectors, BM25, a MeSH knowledge
+graph) feeds an LLM, and a deterministic grounding gate checks every claim
+before it reaches you. A confident unsupported sentence is treated as a bug.
+
+Patients, families and clinicians are drowning in papers they don't have
+time to read, and generic chatbots fill the gap with confident nonsense.
+This is my attempt at something more honest.
+
+It's early and I'd love help. If you know oncology, retrieval or RAG,
+open an issue or just tell me what's wrong with it.
+
+## emmascan
+
+[emmascan.ai](https://emmascan.ai) is a market scanner for regular people.
+Signal scans, backtests, and a plain verdict on any ticker. Also runs as an
+MCP server, so you can plug it into Claude and ask it questions.
+
+## Me
+
+Product manager by day, builder by night. Mostly Python, MCP and retrieval
+these days.
+
+[LinkedIn](https://linkedin.com/in/arnaud-tauveron)
