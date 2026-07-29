@@ -1,31 +1,50 @@
-# Hi, I'm Arnaud
+```
+:::::::::::::::-==-::::::::-===-:---------:--:-==-::::::::::::---====-::
+:::-::::::-:::::-==-:::-----====-----------=--===-::::::::::::-=+++=-:::
+:::-=:::::---:::--=------===+++++++++++++++======----:::-::::-+*+=--::::   arnaud@ArnaudTurn-pro
+::::-=-::::-----:--=--==+**+++++==+++++=+++++++=--=-----::::-+*==--:::::   ---------------------------------------
+--:::-=------------=++++==+===+++===+++=====+++++++=--------+*+--:::::::   OS: ........................ macOS
+:------==-----====++++====++=+++*+*++++*++++++===++++==---==+*=------::-   Shell: ..................... zsh
+::------===---=+*+=====+++++**++=--:::==+++*+++++====++=====++---------=   Editor: .................... Claude Code CLI
+----------=-==++++====+++**+=:...............-**+++====+*++==++==-----==
+=----------=+*+==++=+++**=....................:==+++==+++*+==+++===-===-   Languages.Programming: ..... Python, TypeScript, GDScript
+---------==+*=====+++***-........:.........     :=*+++++==+*+===+*+++=--   Languages.Query: ........... SQL, GraphQL
+==-----===+*=======++*+:.......--++==+=:::::    .-**+++====+*====++**+--   Languages.Human: ........... French, English
+=+===--==+*=======+++*+.......+*+--=+*#*+*++=-. :==*+=======+*======+*+-
+=-====--=+*========+**+... ..+**+=-..:-+**+=-:: :**+========+*+==---=**+   Focus.Work: ................ IT Asset Management @ Lansweeper
+----=+===++======++++**-.-:.:***+*+.-+++*-. :-:-**++==----=++**=----=+**   Focus.Side: ................ medground -- grounded oncology-lit RAG
+-----=+++*+===+===+++**=--==-************=+:=--**++=======+==+*=---===**   Focus.Fun: .................. emmascan.io . game design . writing
+----====+*+==+=====++**===:************++==**--**+======+====+*====--=+*
+-=---====++==++==+++++**+=++*****++****+=-==+:-**++==========*+==---==*+   Contact --------------------------------
+-====-===++++++==+++++****-:-****==+**##*--=--**++=++=======+*==-====**=   LinkedIn: .................... linkedin.com/in/arnaud-tauveron
+--==+=====+*++++++++++****==-=**********+---=**+++**=======+*=======**+-   GitHub: ....................... github.com/ArnaudTurn-pro
+====++++===+*+++*+++******=**---+*****+===-+*+++++++======+*+===--=**+==   
+=++++=+++++++**+*********+=**+==-:-=+**=--+**+++++===+++***+==-==+**+===
++++++==+++**********++=::=****+**=-::..:+***++++++++++=+++======+*++====
++==++++**++==----:::....:==+***+**+=::-:****++****++==++======+**+=====-
+===++**+::::.::::::::::::.::-=+*+**-:-:..-+******++++++====++**+=====---
+==++**-.::::::::::::::::::::...--==-=---: .:-+****+++++++****+====+=====
++++*+::::::::::::::.:::::::::::.::::--::.... ..:-=+*******++======++++==
+=+**::::::::.:::::..:::::::::::::::...::........ ...-+**++==========+*==
+++*=.::::::::.::.:..:::::::::::::::::::::::::::..... .=*+=========-==+*+
+++*-.::::::::..:...::::::::::::::::::::::::::::::......+*+++=========+**
++*=.::::::::::.......:::::::::::::::::::::::::::::.....:**+===========+*
+*=.:::::::::........:.:---=++-...:::::::::::::::::.. ...+**++=========+*
+=.::::::::::....  ....=+=+**+---.::::::::::::::::..   ..+*+++===-=====+*
+..-----::::.....  ...-*++*+=-++-::::...::::::::....   ..=*+++*+=======+*
+ =***=**+=-:...   .. =*++==+**=-=-....::........... .....*++++*+======+*
+```
 
-I build simple, useful tools. Some work, some don't. I keep building anyway.
+### What I'm into
 
-## <img src="https://medground.ai/favicon-96x96.png" height="24" align="top" /> medground
+- 🧠 **Multi-agent orchestration** — routing work across specialized agents instead of one giant prompt
+- 🧬 **[medground](https://github.com/ArnaudTurn-pro/medground)** — a grounded Graph-RAG research assistant over oncology literature (dense + BM25 + MeSH graph + curated biomarker evidence). No hallucinated citations, ever.
+- 🖥️ **IT Asset Management tooling** — turning raw fleet/vulnerability data into answers a human actually wants
+- 📈 **[emmascan.io](https://emmascan.io)** — signal scanning, backtests, and confluence-pattern detection across markets and timeframes, built by me
+- 🎮 **Game design & worldbuilding** — kernel idea → GDD → playable spec
+- ✍️ **Long-form writing pipelines** — plot, prose, continuity, all the boring-but-critical bookkeeping
 
-[medground.ai](https://medground.ai) is a research tool over the medical
-literature, built on one rule: no claim ships without a real, retrievable
-paper behind it. Hybrid retrieval (dense vectors, BM25, a MeSH knowledge
-graph) feeds an LLM, and a deterministic grounding gate checks every claim
-before it reaches you. A confident unsupported sentence is treated as a bug.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,docker,postgres,graphql,git,bash&theme=dark" alt="tech stack" />                                    </p>
 
-Patients, families and clinicians are drowning in papers they don't have
-time to read, and generic chatbots fill the gap with confident nonsense.
-This is my attempt at something more honest.
-
-It's early and I'd love help. If you know oncology, retrieval or RAG,
-open an issue or just tell me what's wrong with it.
-
-## <img src="https://emmascan.io/emma-icon-128.png" height="24" align="top" /> emmascan
-
-[emmascan.io](https://emmascan.io) is a market scanner for regular people.
-Signal scans, backtests, and a plain verdict on any ticker. Also runs as an
-MCP server, so you can plug it into Claude and ask it questions.
-
-## Me
-
-Product manager by day, builder by night. Mostly Python, MCP and retrieval
-these days.
-
-[LinkedIn](https://linkedin.com/in/arnaud-tauveron)
+<h4 align="center">— always grounded, occasionally over-vibe-engineered —</h
